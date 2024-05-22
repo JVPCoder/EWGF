@@ -19,9 +19,9 @@ O jogo conta com 4 botões:
  - 🔥 Heat (cura)
  - 😅 Desistir (cancela o jogo)
 
-## Link do Projeto em funcionamento:
+## 🔗 Link do Projeto em funcionamento:
 
-(...)
+[Deploy](https://jvpcoder.github.io/EWGF/)
 
 ## 🗒️ Licença
 
